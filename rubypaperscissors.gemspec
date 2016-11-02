@@ -6,8 +6,8 @@ require 'rubypaperscissors/version'
 Gem::Specification.new do |spec|
   spec.name          = "rubypaperscissors"
   spec.version       = Rubypaperscissors::VERSION
-  spec.authors       = ["Jonathan Popenuck"]
-  spec.email         = ["john.popenuck@gmail.com"]
+  spec.authors       = ["Jonathan Popenuck", "Alexa Anderson"]
+  spec.email         = ["john.popenuck@gmail.com", "alexa.anderson@outlook.com"]
 
   spec.summary       = %q{Ruby driven Rock Paper Scissors game.}
   spec.description   = %q{Ruby driven Rock Paper Scissors game.}
