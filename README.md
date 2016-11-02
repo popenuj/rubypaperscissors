@@ -1,6 +1,6 @@
 # Rubypaperscissors
 
-
+[![Gem Version](https://badge.fury.io/rb/rubypaperscissors.svg)](https://badge.fury.io/rb/rubypaperscissors)
 
 ## Installation
 
